@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colin Codes</h1>
-<h3 align="center">A passionate frontend developer from the UK</h3>
+<h3 align="center">Full Stack developer based in the UK</h3>
 
 <p align="left"> <a href="https://twitter.com/colincodesdev" target="blank"><img src="https://img.shields.io/twitter/follow/colincodesdev?logo=twitter&style=for-the-badge" alt="colincodesdev" /></a> </p>
 
