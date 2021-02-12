@@ -1,9 +1,6 @@
 <h3 align="center">Full Stack developer, UK</h3>
 
-<p align="center"> <a href="https://twitter.com/colincodesdev" target="blank"><img src="https://img.shields.io/twitter/follow/colincodesdev?logo=twitter&style=for-the-badge" alt="colincodesdev" /></a> </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center" style="background-color:white">
 <a href="https://twitter.com/colincodesdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="colincodesdev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5767853" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5767853" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Colin%20Codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="Colin Codes" height="30" width="40" /></a>
