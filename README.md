@@ -6,6 +6,7 @@
 <p align="center">
 <a href="https://twitter.com/colincodesdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="colincodesdev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5767853" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5767853" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Colin%20Codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="Colin Codes" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
