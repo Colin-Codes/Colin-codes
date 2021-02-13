@@ -1,3 +1,5 @@
+<!-- Check out this awesome github profile generation tool: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
 <h3 align="center">Full Stack developer, UK</h3>
 
 <p align="center" style="background-color:white">
